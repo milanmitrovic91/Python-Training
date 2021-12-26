@@ -1,26 +1,26 @@
 
-## 0. Introduction and general info about tutorial
+### 0. Introduction and general info about tutorial
 
-## 1. IDEs
+### 1. IDEs
 
-## 2. Variables, Statements and Expressions
+### 2. Variables, Statements and Expressions
 
-## 3. Functions
+### 3. Functions
 
-## 4. Controle Structures - Part I
+### 4. Controle Structures - Part I
 
-## 5. Collections
+### 5. Collections
 
-## 6. Controle Structures - Part II
+### 6. Controle Structures - Part II
 
-## 7. Functional Programming
+### 7. Functional Programming
 
-## 8. Exceptions
+### 8. Exceptions
 
-## 9. Mutability of Objects
+### 9. Mutability of Objects
 
-## 10. Classes and Objects
+### 10. Classes and Objects
 
-## 11. List Comprehension
+### 11. List Comprehension
 
-## 12. Course ending and Final thoughts
+### 12. Course ending and Final thoughts
