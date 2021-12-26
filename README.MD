@@ -1,6 +1,11 @@
 
 ### 0. Introduction and general info about tutorial
 
+- General info about course
+- What we can expect?
+- What do we want to achieve?
+- How we are going to learn?
+
 ### 1. IDEs
 
 ### 2. Variables, Statements and Expressions
