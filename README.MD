@@ -15,6 +15,13 @@
 
 ### 2. Variables, Statements and Expressions
 
+  - Variable assignment
+  - Variable types
+  - Variable names
+  - Order of operations
+  - Computer memory
+  - Comments
+
 ### 3. Functions
 
 ### 4. Controle Structures - Part I
