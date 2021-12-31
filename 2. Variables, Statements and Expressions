@@ -1,1 +1,128 @@
 
+## Plan for today
+
+  - Variable assignment
+  - Variable types
+  - Variable names
+  - Expressions and Statements
+  - Order of operations
+
+  - Script mode VS Interactive mode
+  - Computer memory
+  - Comments
+  - Debugging (3 types of errors)
+
+
+## Variables as boxes
+
+  - Variable is nothing but the name of box in which some data (int, string, list, dictionary...) is stored.
+  
+  
+
+## Variable assignment
+
+  - Computers can do only 3 things:
+    - Perform calculation
+    - Remember what was calculated
+    - Decide when to stop
+  - Repeat previous 3 steps many times
+  - Today we focus on second part
+
+
+## Variable assignment
+
+  - Remember what was calculated = Store results
+  - In order to store results, following should be defined:
+    - What should be stored
+    - Where should be stored
+
+  - Why should we deal with data storage and variable assignment?
+
+## Computer memory model
+
+  - Think about computer memory as a grid. 
+  - When you input some value, it is stored at some place in grid.
+  - It has internally generated number (reference) which says on which part of grid data is stored.
+  - Internally generated number is awkward, large, complex. It is difficult to remember it.
+  - So, instead, we use variable to reference value stored in memory.
+
+
+## Variable as box
+
+  - Think about variable as box in which we store value.
+
+  - Box is place in memory which is occupied by data.
+
+  - Name of box is variable’s name.
+
+
+## Valid name for variable
+
+  - Letters, numbers and underscore are legal
+
+  - Name can’t start with number
+
+  - Same name for variable and function is not possible
+
+
+  - Can’t use keyword as name for function
+
+  - If you want your variable name to be same as reserved keyword, just add trailing underscore.
+    - e.g. from_, import_, global_
+
+## Python reserved keywords
+
+  - How to find list of all keywords in python?
+    - help(‘keywords’)
+
+## Variables
+
+  - Simple variables
+    - Int, float, boolean, None
+
+  - Compound variables
+    - String, list, tuple, set, dictionary, frozenset
+
+
+
+  - Two types of variables in python:
+    - Mutable
+    - Immutable
+
+## Types of variables
+
+  - Immutable
+    - Integer
+    - Floats
+    - Boolean
+    - (None)
+    - Strings
+    - Frozen set
+    
+  - Mutable
+    - List
+    - Tuples
+    - Set
+    - Dictionary
+    
+ 
+## What can we do with variables?
+
+
+  - Python operators:
+
+    - Arithmetic
+    - Assignment
+    - Comparison
+    - Logical
+
+
+    - Membership
+    - Bitwise
+    - Identity
+
+
+## Arithmetic operators
+
+  - 
+
