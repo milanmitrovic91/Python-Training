@@ -8,6 +8,11 @@
 
 ### 1. IDEs
 
+  - PyCharm, Python instalation
+  - Intro to command line
+  - File path
+  - IDEs features
+
 ### 2. Variables, Statements and Expressions
 
 ### 3. Functions
