@@ -24,6 +24,12 @@
 
 ### 3. Functions
 
+  - What is function?
+  - What are function elements?
+  - Defining function VS calling function !!!
+  - What is function scope?
+  - Function parameters and arguments
+
 ### 4. Controle Structures - Part I
 
 ### 5. Collections
