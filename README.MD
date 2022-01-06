@@ -40,6 +40,14 @@
 
 ### 5. Collections
 
+  - List
+  - Tuples
+  - Dictionary
+  - Set
+  - Frozenset
+
+  - Mutability of python object
+
 ### 6. Controle Structures - Part II
 
 ### 7. Functional Programming
