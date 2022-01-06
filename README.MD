@@ -32,6 +32,12 @@
 
 ### 4. Controle Structures - Part I
 
+  - Controle structures types
+  - Controle structures parts
+  - Sequence, condition and iteration logic
+  - Break, continue, pass
+
+
 ### 5. Collections
 
 ### 6. Controle Structures - Part II
