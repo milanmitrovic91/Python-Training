@@ -49,6 +49,10 @@
 
 ### 6. Controle Structures - Part II
 
+  - For loop
+  - While loop
+  - Controle structures parts/elements (head, body)
+
 ### 7. Functional Programming
 
 ### 8. Exceptions
